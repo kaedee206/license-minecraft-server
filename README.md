@@ -1,0 +1,1 @@
+# license-minecraft-server
