@@ -73,7 +73,7 @@ I. Q: Mình có thể vào bằng cách nào?
 
 II. Q: Mình bị lỗi "getsockopt" là sao?
 
-   A: Là do bạn có trục trặc về mạng, nếu không phải thì do mình đang tắt server để sửa
+  - A: Là do bạn có trục trặc về mạng, nếu không phải thì do mình đang tắt server để sửa
 
 III. Q: Mình không vào được game
 
